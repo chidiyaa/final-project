@@ -1,0 +1,35 @@
+2018-10-18 17:25:19,569 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-18 17:25:44,050 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved placed names
+2018-10-18 17:25:56,668 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-18 17:45:23,825 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-18 17:45:29,254 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-18 17:48:20,532 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-18 17:56:11,359 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-18 17:59:15,740 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-18 17:59:22,226 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-18 17:59:52,853 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-18 18:00:08,380 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-18 18:03:23,671 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-18 18:04:44,060 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 09:45:53,787 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 09:46:00,848 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 09:46:09,056 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved placed names
+2018-10-19 09:46:21,143 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved placed names
+2018-10-19 11:25:20,405 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 11:25:35,248 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 11:25:47,280 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 11:25:48,808 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 11:26:43,000 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 11:27:17,157 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved placed names
+2018-10-19 11:27:26,477 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved placed names
+2018-10-19 11:54:01,247 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 11:54:12,629 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 11:54:29,625 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved placed names
+2018-10-19 14:42:08,680 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 14:44:04,337 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data
+2018-10-19 14:56:32,993 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data with the month July
+2018-10-19 14:59:18,377 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data with the month July
+2018-10-19 14:59:26,905 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data with the month january
+2018-10-19 14:59:35,077 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data with the month febraury
+2018-10-19 14:59:45,281 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data with the month July
+2018-10-19 15:02:20,981 - com.example.AdminService.controller.AdminController - INFO - Successfully retrieved data with the month July
